@@ -1,5 +1,8 @@
-# TaskVault
-<div style="text-align: center;">
+# TaskVault App
+
+My first Flutter project!
+
+<div style="align-items: center;">
     <img src="screen_shots/Menu%20view.png" height="500" style="margin: auto">
     <img src="screen_shots/splash%20screen.png" height="500" style="margin: auto"><br>
     <img src="screen_shots/App%20view.png" height="500" style="margin: auto">
