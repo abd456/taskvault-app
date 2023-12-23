@@ -1,6 +1,6 @@
 # TaskVault App
 
-My first Flutter project!
+<i>My first Flutter project!</i><br>
 To-Do List App to track daily chores and improve effieciency
 
 <div style="align-items: center;">
